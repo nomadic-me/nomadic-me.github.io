@@ -94,6 +94,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Blog */
+.button.button-blog {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-github:hover,
+.button.button-github:focus {
+  filter: brightness(90%);
+}
+
 /* Patreon */
 .button.button-patreon {
   color: #ffffff;
