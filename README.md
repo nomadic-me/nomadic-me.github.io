@@ -6,3 +6,4 @@ Repository to host my GitHub Pages. Can be accessed from:
 
 
 The code was originally based on [LittleLink](https://github.com/nomadic-me/littlelink) Project!
+More information: [GitHub Pages](https://pages.github.com/)
